@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coloring</string>
+    <string name="no_image_in_main_list">There is no image to load</string>
+</resources>
